@@ -1,0 +1,34 @@
+body {
+  font-family: "Space Mono";
+  background-color: #dfd6e2;
+  color: #c78ec0;
+  text-align: center;
+  padding: 25px;
+}
+
+div {
+  background-color: #e8dddd;
+  padding: 50px;
+  width: 500px;
+  margin: 25px auto;
+  border-radius: 5px;
+  border: 1px solid #330b33;
+}
+h1, h2, h3 {
+  font-family: "Space Grotesk";
+  color: #8b6780;
+}
+
+li {
+  display: inline;
+}
+
+ul {
+  padding: 0px;
+}
+
+img {
+  width: 200px;
+  height: 200px;
+  border-radius: 100px;
+}
